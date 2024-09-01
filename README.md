@@ -1,6 +1,6 @@
-<img src="https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/banner.png" alt="Banner" width="1000" height="300">
+![Banner](https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/banner.png)
 
-# Lead Tracker Extension
+# Lead Tracker Extensionz
 
 ## Description
 The Lead Tracker Chrome extension helps users manage and track leads by saving URLs. It provides additional functionalities like exporting leads to CSV and toggling dark mode, and more.
