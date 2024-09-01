@@ -4,12 +4,12 @@
 The Lead Tracker Chrome extension helps users manage and track leads by saving URLs. It provides additional functionalities like exporting leads to CSV and toggling dark mode, and more.
 
 ## Features
-- **Save Lead:** Add and save URLs manually.
-- **Save Tab:** Save the URL of the currently active browser tab.
-- **Clear All Leads:** Remove all saved leads with one click.
-- **Export to CSV:** Export all saved leads to a CSV file for easy sharing and analysis.
-- **Dark Mode:** Toggle between light and dark modes for user comfort.
-- **Responsive Design:** Adaptable interface for various screen sizes.
+- **💾Save Lead:** Add and save URLs manually.
+- **🌐Save Tab:** Save the URL of the currently active browser tab.
+- **🗑️Clear All Leads:** Remove all saved leads with one click.
+- **📈Export to CSV:** Export all saved leads to a CSV file for easy sharing and analysis.
+- **🌙Dark Mode:** Toggle between light and dark modes for user comfort.
+- **📱Responsive Design:** Adaptable interface for various screen sizes.
 
 ## Technology Stack
 - **Frontend:** HTML, CSS
@@ -22,3 +22,10 @@ The Lead Tracker Chrome extension helps users manage and track leads by saving U
 3. **Clear Leads:** Click "Clear All" to remove all leads from your list.
 4. **Export Leads:** Click "Export CSV" to download a CSV file containing all your saved leads.
 5. **Toggle Dark Mode:** Click "Dark Mode" to switch themes. The button will change to "Light Mode" for toggling back.
+
+## Installation
+1. Download the extension from [Google Drive](direct_download_link).
+2. Go to `chrome://extensions/` in your Chrome browser.
+3. Enable "Developer mode" using the toggle switch in the top right.
+4. Click "Load unpacked" and select the directory where you downloaded the extension.
+5. The extension should now be available in your Chrome toolbar.
