@@ -35,7 +35,7 @@ The Lead Tracker Chrome extension helps users manage and track leads by saving U
 
 
 ## Installation
-1. Download the extension from [Google Drive]([direct_download_link](https://drive.google.com/uc?export=download&id=1WbSGU7Xq0GK7aq3VpJau1wRCtztkUFav)).
+1. Download the extension from [Google Drive](https://drive.google.com/uc?export=download&id=1WbSGU7Xq0GK7aq3VpJau1wRCtztkUFav).
 2. Go to `chrome://extensions/` in your Chrome browser.
 3. Enable "Developer mode" using the toggle switch in the top right.
 4. Click "Load unpacked" and select the directory where you downloaded the extension.
