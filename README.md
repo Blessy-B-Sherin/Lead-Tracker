@@ -1,4 +1,4 @@
-![Banner](https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/banner.png)
+<img src="https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/banner.png" alt="Banner" width="1000" height="300">
 
 # Lead Tracker Extension
 
