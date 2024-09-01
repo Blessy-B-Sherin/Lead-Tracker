@@ -25,12 +25,13 @@ The Lead Tracker Chrome extension helps users manage and track leads by saving U
 4. **Export Leads:** Click "Export CSV" to download a CSV file containing all your saved leads.
 5. **Toggle Dark Mode:** Click "Dark Mode" to switch themes. The button will change to "Light Mode" for toggling back.
 
-## Screenshots
-
-<img src="https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/ss.png" alt="Screenshot" width="300">
-
-## Demo Video
-[![Watch the demo video](https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/thumbnail.png)](https://drive.google.com/file/d/1htpJP2WpdwPUzYRSuwNMUjVjLmHlGfsK/view?usp=sharing)
+## Screenshots & Demo Video
+<div style="display: flex; gap: 10px;">
+    <img src="https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/ss.png" alt="Screenshot" width="400">
+    <a href="https://drive.google.com/file/d/1htpJP2WpdwPUzYRSuwNMUjVjLmHlGfsK/view?usp=sharing" target="_blank">
+        <img src="https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/thumbnail.png" alt="Demo Video" width="400">
+    </a>
+</div>
 
 ## Installation
 1. Download the extension from [Google Drive]([direct_download_link](https://drive.google.com/uc?export=download&id=1WbSGU7Xq0GK7aq3VpJau1wRCtztkUFav)).
