@@ -29,7 +29,7 @@ The Lead Tracker Chrome extension helps users manage and track leads by saving U
 <div style="display: flex; gap: 20px;">
     <img src="https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/ss.png" alt="Screenshot" width="300" height="400">
     <a href="https://drive.google.com/file/d/1htpJP2WpdwPUzYRSuwNMUjVjLmHlGfsK/view?usp=sharing" target="_blank">
-        <img src="https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/thumbnail.png" alt="Demo Video" width="550" height="400">
+        <img src="https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/thumbnail.png" alt="Demo Video" width="500" height="400">
     </a>
 </div>
 
