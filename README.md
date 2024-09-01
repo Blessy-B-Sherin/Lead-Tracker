@@ -1,3 +1,5 @@
+![Banner](https://github.com/Blessy-B-Sherin/Lead-Tracker/raw/main/banner.png)
+
 # Lead Tracker Extension
 
 ## Description
